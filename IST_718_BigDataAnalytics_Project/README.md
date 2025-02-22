@@ -1,7 +1,7 @@
 # Efficient Supply Chain Management for HIV Health Commodities
 
 ## Project Overview
-The project was done by me and my group for the clas IST 718 Big Data Anaytics, this project applies big data analytics and machine learning to optimize the supply chain for HIV health commodities. By leveraging PySpark, the analysis aims to do delivery delay prediction, identify infuencing factors and improve logistical efficiency. The dataset, sourced from the USAID Supply Chain Shipment Pricing Dataset, includes information on global shipments, costs, delivery timelines, and vendor details.
+The project was done by me and my group for the class IST 718 Big Data Anaytics, this project applies big data analytics and machine learning to optimize the supply chain for HIV health commodities. By leveraging PySpark, the analysis aims to do delivery delay prediction, identify infuencing factors and improve logistical efficiency. The dataset, sourced from the USAID Supply Chain Shipment Pricing Dataset, includes information on global shipments, costs, delivery timelines, and vendor details.
 
 ## Repository Structure
 This repository contains the following files:
@@ -33,6 +33,7 @@ This repository contains the following files:
 ## Software Requirements
 To run the code and review the analysis, the following software and libraries are required:
 
+
 ### Required Software
 - **Python 3.2+** (Recommended for compatibility)
 - **Apache Spark (PySpark)** for big data processing
@@ -59,13 +60,3 @@ pip install pandas numpy matplotlib seaborn pyspark scikit-learn imbalanced-lear
 3. **Report:**
    - Open the report using a PDF reader.
    - Read through the sections to understand the detailed methodology and results.
-
-## Contact Information
-For any questions or collaboration opportunities, please reach out to:
-- **Rithvik Rangaraj**
-- **Mariya Mansuri**
-- **Harshada Daund**
-
----
-Thank you for exploring our project on Efficient Supply Chain Management for HIV Health Commodities!
-
